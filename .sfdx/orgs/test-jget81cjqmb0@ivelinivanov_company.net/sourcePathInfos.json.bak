@@ -1,0 +1,335 @@
+[
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516365044790,
+            "changeTime": 1516365044790,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516365044790,
+            "changeTime": 1516365044790,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1516999112460,
+            "changeTime": 1516999112460,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1516365044790,
+            "changeTime": 1516365044790,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1516365169831,
+            "changeTime": 1516365169831,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1516365590718,
+            "changeTime": 1516365590718,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9849,
+            "modifiedTime": 1516998801372,
+            "changeTime": 1516998801372,
+            "contentHash": "7268604a3e9586b482b1dc5b55ab29d525c97b5f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9897,
+            "modifiedTime": 1516998801386,
+            "changeTime": 1516998801386,
+            "contentHash": "89740d8ce3f895c734c23d8e8bad985d26df8e91",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9849,
+            "modifiedTime": 1516998801398,
+            "changeTime": 1516998801398,
+            "contentHash": "228e4a17c1185fd3793bc7e088b661284b86ff2a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9897,
+            "modifiedTime": 1516998801414,
+            "changeTime": 1516998801414,
+            "contentHash": "a5d13f27bb35ce12cd59b50c4c45a95f9f7363fe",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4709,
+            "modifiedTime": 1516365590745,
+            "changeTime": 1516365590745,
+            "contentHash": "e438db80e4aeeecbf992be6e83d759c571b35faf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4373,
+            "modifiedTime": 1516365590750,
+            "changeTime": 1516365590750,
+            "contentHash": "ac146ad4828da47bb2a3e45e664ddaef1e1aaf9d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4369,
+            "modifiedTime": 1516365590752,
+            "changeTime": 1516365590752,
+            "contentHash": "3ddd9cef9ff7e4457b775b5a3b120e1e051abe80",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17055,
+            "modifiedTime": 1516365590772,
+            "changeTime": 1516365590772,
+            "contentHash": "de0f267ee8bf31a93f84c4a779bffad0658bcade",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 527,
+            "modifiedTime": 1516998801416,
+            "changeTime": 1516998801416,
+            "contentHash": "8ad1c89ec9807eb7adf0615248b6411804e794da",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516998801356,
+            "changeTime": 1516998801356,
+            "contentHash": "2a1a806b90813cf2e5db5325be3bb1ce8539b6be",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516365590717,
+            "changeTime": 1516365590717,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516365590717,
+            "changeTime": 1516365590717,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516365590742,
+            "changeTime": 1516365590742,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516365590772,
+            "changeTime": 1516365590772,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516365590775,
+            "changeTime": 1516365590775,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1516998801356,
+            "changeTime": 1516998801356,
+            "contentHash": "e2b6b79bde30e8133dada9ad2c5e6aa595ddc450",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516999112480,
+            "changeTime": 1516999112480,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1516999186244,
+            "changeTime": 1516999186244,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+        }
+    ],
+    [
+        "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivelinivanov/sfdx_geolocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1516999112480,
+            "changeTime": 1516999112480,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+        }
+    ]
+]
